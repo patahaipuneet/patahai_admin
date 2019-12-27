@@ -1,0 +1,47 @@
+{
+  "display_name": "Translate me ---> Crons",
+  "fields": {
+    "Category": {
+      "display_name": "Translate me ---> Category",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Duration": {
+      "display_name": "Translate me ---> Duration",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "ID": {
+      "display_name": "Translate me ---> ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Language": {
+      "display_name": "Translate me ---> Language",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Publisher": {
+      "display_name": "Translate me ---> Publisher",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Url": {
+      "display_name": "Translate me ---> Url",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    }
+  }
+}
